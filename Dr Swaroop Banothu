@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dr Swaroop Banothu | Clinical Pharmacist</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #0d1117;
+      color: #c9d1d9;
+      text-align: center;
+    }
+    header {
+      padding: 60px 20px;
+    }
+    h1 {
+      font-size: 38px;
+      color: #58a6ff;
+    }
+    h2 {
+      font-size: 20px;
+      color: #8b949e;
+    }
+    p {
+      max-width: 600px;
+      margin: 15px auto;
+      line-height: 1.6;
+      color: #c9d1d9;
+    }
+    .btn {
+      display: inline-block;
+      margin: 15px 10px;
+      padding: 12px 22px;
+      border-radius: 8px;
+      text-decoration: none;
+      color: white;
+      border: 1px solid #58a6ff;
+    }
+    .btn-primary {
+      background: #238636;
+      border-color: #238636;
+    }
+    footer {
+      margin-top: 40px;
+      padding: 20px;
+      color: #8b949e;
+      font-size: 14px;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Hi, I'm Dr Swaroop Banothu</h1>
+  <h2>Clinical Pharmacist | Medical Affairs | Lifestyle Coach</h2>
+  <p>
+    PharmD-trained Clinical Pharmacist experienced in medication therapy management,
+    medical affairs, patient education, and lifestyle optimisation. Founder of OptiMedX.
+  </p>
+
+  <a class="btn btn-primary" href="mailto:drswaroop2017@gmail.com">Contact Me</a>
+  <a class="btn" href="#" target="_blank">Download CV</a>
+</header>
+
+<section>
+  <h2>About Me</h2>
+  <p>
+    I specialise in clinical pharmacy, medication review, ADR monitoring,
+    medical writing, and evidence-based communication. I also guide individuals
+    in strength training, nutrition basics, gut health, and long-term lifestyle improvement.
+  </p>
+</section>
+
+<section>
+  <h2>Experience</h2>
+  <p>
+    • Clinical Pharmacist – Medication review, counselling, ADR monitoring<br>
+    • Medical Affairs – Evidence summaries & scientific communication<br>
+    • Founder – OptiMedX patient education & medication safety<br>
+    • Lifestyle Coach – Strength, nutrition, gut health, habit systems
+  </p>
+</section>
+
+<footer>
+  © 2025 Dr Swaroop Banothu
+</footer>
+
+</body>
+</html>
